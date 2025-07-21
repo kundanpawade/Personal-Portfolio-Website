@@ -13,3 +13,7 @@ This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 - 💻 Clean and modern UI with smooth animations
 
 ---
+
+## 📽️ Project Preview
+
+![Preview 1](./files/Preview 1.png)
